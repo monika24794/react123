@@ -1,0 +1,26 @@
+.Footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    padding: 20px;
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+.Header{
+    
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+.body
+{
+    background-image:url("https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.jpg?w=740&t=st=1716901646~exp=1716902246~hmac=5db55fc7cb7847526fdeb23253b5ab9c7df57fe5cc125d3501578c8c6752eb26")
+    
+}
+img{
+    max-height: 200px;
+}
+.xyz{
+   
+    text-align: center !important;
+}
